@@ -1,0 +1,2 @@
+# 统一使用 LF，避免脚本在 Linux 上因 CRLF 解释器报错
+* text=auto eol=lf
